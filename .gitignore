@@ -1,0 +1,12 @@
+engine/
+.venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+*.Zone.Identifier
+knowledge_layer/
+generated_carousels/
+.cron/
+logs/
